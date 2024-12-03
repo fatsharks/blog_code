@@ -46,8 +46,6 @@ add_executable(kyojin_demo
 
     src/system/ipc_test.cpp
 
-    src/visual/v_slam_entr.cpp
-
     demo/main.cpp
 )
 
